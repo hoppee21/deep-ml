@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-09-25T03:28:19.969Z",
+  "items": {
+    "problem:836": {
+      "kind": "problem",
+      "id": "836",
+      "title": "Top-K Accuracy for Multi-Class Classification",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/836",
+      "path": "problems/0836-top-k-accuracy-for-multi-class-classification",
+      "first_solved_at": "2026-09-25T03:28:16.538Z",
+      "last_pushed_at": "2026-09-25T03:28:16.538Z",
+      "language": "python",
+      "lines": 23
+    }
+  }
+}
