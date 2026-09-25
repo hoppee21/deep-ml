@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T03:28:19.969Z",
+  "generated_at": "2026-09-25T05:15:05.357Z",
   "items": {
     "problem:836": {
       "kind": "problem",
@@ -10,7 +10,7 @@
       "url": "https://www.deep-ml.com/problems/836",
       "path": "problems/0836-top-k-accuracy-for-multi-class-classification",
       "first_solved_at": "2026-09-25T03:28:16.538Z",
-      "last_pushed_at": "2026-09-25T03:28:16.538Z",
+      "last_pushed_at": "2026-09-25T05:15:04.619Z",
       "language": "python",
       "lines": 23
     }
